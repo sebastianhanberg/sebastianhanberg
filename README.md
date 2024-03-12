@@ -10,7 +10,7 @@ A web developer from Sweden in the making, currently sharpening my skills in ful
 - Version Control: `Git`
 
 ## Connect with Me:
-- [LinkedIn] https://www.linkedin.com/in/sebastian-h%C3%A5nberg-03051891/
+- [LinkedIn](https://www.linkedin.com/in/sebastian-h%C3%A5nberg-03051891/)
 - 📧 Email: sebastian.hanberg@gmail.com
 
 Whether you're looking for collaboration on exciting projects or just want to chat tech, I'm always open to connecting with fellow tech enthusiasts!
